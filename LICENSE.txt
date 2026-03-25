@@ -1,0 +1,45 @@
+ORCHESTRATOR85 — END USER LICENSE AGREEMENT
+==============================================
+Version 1.0  |  2026
+Copyright (c) 2025–2026 INDIGLITCH LAB. All rights reserved.
+
+This agreement governs your use of the Orchestrator85 software ("Software"),
+developed and owned by INDIGLITCH LAB.
+By accepting this agreement you confirm that you have read and understood its terms.
+
+1. PERMITTED USE
+   You may install and use the Software on any number of computers for your own
+   personal or internal business purposes at no charge.
+
+2. RESTRICTIONS
+   You may NOT, without prior written permission from the author:
+   a) sell, sublicense, rent or commercially redistribute the Software or any
+      modified version of it;
+   b) remove, alter or obscure any copyright notice, author attribution, or
+      branding present in the Software;
+   c) repackage or rebrand the Software and distribute it as your own product;
+   d) publish the Software on any download platform, marketplace, or repository
+      under a name, branding, or terms other than the originals.
+
+3. INTELLECTUAL PROPERTY
+   The Software, including its source code, design, and all related materials,
+   is the exclusive intellectual property of INDIGLITCH LAB and is protected
+   by copyright law.  All rights not expressly granted here are reserved.
+
+4. OFFICIAL SOURCE
+   The only authorised distribution channel is the official repository / website
+   listed inside the Software under Help → About.  Any copy obtained elsewhere
+   may be modified or malicious.
+
+5. NO WARRANTY
+   The Software is provided "as is" without any warranty of any kind, express or
+   implied.  The author is not liable for any damage arising from its use.
+
+6. TERMINATION
+   This licence terminates automatically if you breach any of its terms.
+
+7. GOVERNING LAW
+   This agreement is governed by applicable copyright law.  Disputes shall be
+   resolved in the jurisdiction of the author's place of residence.
+
+By clicking "accept" you agree to all terms above.
