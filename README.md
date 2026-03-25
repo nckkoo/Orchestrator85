@@ -1,4 +1,4 @@
-Orchestrator '85 is a Windows desktop utility for managing and launching multiple applications from a single control panel.
+Orchestrator85 is a Windows desktop utility for managing and launching multiple applications from a single control panel.
 
 You define a list of apps — each with an exact window position, size, monitor, startup delay, and launch arguments. Hit "run" and Orchestrator places every app exactly where you want it on your screen(s), automatically. Hit "stop" to close them all.
 
